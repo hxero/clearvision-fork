@@ -1784,7 +1784,7 @@ div[aria-checked="true"] .mentionButton_b11c5e {
 	color: hsla(0, 0%, 100%, 0.3);
 }
 .channelTextArea_bdf0de {
-	background: --text-area;
+	background: var(--text-area);
 	transition: all 0.15s ease-in-out;
 }
 .channelTextArea_bdf0de:focus-within {
